@@ -1,0 +1,4 @@
+digit-recognizer/
+__pycache__/
+*.csv
+.venv/
